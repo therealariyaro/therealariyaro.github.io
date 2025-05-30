@@ -23,8 +23,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   description TBD
 baseurl: "" # the subpath of 29your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: twitter is a stain on humanity
+github_username:  therealariyaro
 
 # Build settings
 theme: minima
